@@ -4,4 +4,3 @@ let btn=document.querySelector("#enterBtn");
 btn.addEventListener("click",()=>{
 	state.innerHTML = "Entered Metaverse";
 });
-console.log("hello");
